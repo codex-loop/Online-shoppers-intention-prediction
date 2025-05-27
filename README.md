@@ -47,7 +47,7 @@ online-shoppers-intention/
 | Logistic Regression  | 0.8924         |
 | K-Nearest Neighbors  | 0.8872         |
 | Decision Tree        | 0.8559         |
-| KMeans Clustering    | 0.730000       |
+| KMeans Clustering    | 0.7300         |
 
 ---
 
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/analysis.ipynb
 
 ## 📤 Outputs
-Accuracy scores and evaluation results saved in outputs/
+Accuracy scores and evaluation results saved in results/
 
 
 
